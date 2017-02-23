@@ -1,3 +1,4 @@
 first line
 cleared content
 another change
+one commit
